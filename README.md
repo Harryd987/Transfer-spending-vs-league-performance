@@ -1,4 +1,4 @@
-# Premier League Transfer Spending vs Club Financials
+# Premier League Transfer Spending vs Club Finances 
 
 ## What this is about
 I wanted to find out whether clubs that earn more money actually spend more on transfers. This came from watching how different Premier League clubs spend compared to their size - some clubs with huge revenues seem cautious in the transfer market while others spend way beyond what you'd expect, Tottenham just finished above relegation two years running while still spending over £237 million halfway through the summer 2026 transfer window. I wanted to see if there was an actual pattern in the data or if it's more random than people think. 
